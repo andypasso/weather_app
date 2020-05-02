@@ -2,7 +2,7 @@
 
 > A simple app that tells you the wether based on the provided city.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://ibb.co/ZfF7gnR)
 
 Additional description about the project and its features.
 
@@ -32,7 +32,7 @@ Additional description about the project and its features.
 
 - Clone the project to your computer.
 - run: npm install.
-- run: npm run start.
+- run: npm run build.
     
 ### Usage
 
@@ -40,7 +40,7 @@ Additional description about the project and its features.
 
 👤 **Andres Rodriguez**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
+- Github: [@githubhandle](https://github.com/andynarg)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 

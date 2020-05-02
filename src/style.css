@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Montserrat' , 'sans-serif';
-    background-image: url(https://github.com/andynarf/weather_app/blob/features/totoro.jpg?raw=true);
+    background-image: url(./totoro.jpg);
     background-size: cover;
     background-position: top center;
 
