@@ -2,7 +2,7 @@
 
 > A simple app that tells you the wether based on the provided city.
 
-![screenshot](https://ibb.co/ZfF7gnR)
+![screenshot](https://i.ibb.co/sgNz10p/Screen-Shot-2020-05-02-at-19-03-36.png)
 
 Additional description about the project and its features.
 
