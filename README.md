@@ -40,7 +40,7 @@ Additional description about the project and its features.
 
 👤 **Andres Rodriguez**
 
-- Github: [@githubhandle](https://github.com/andynarg)
+- Github: [@andynarf](https://github.com/andynarf)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
